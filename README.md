@@ -1,6 +1,3 @@
-
-![wallpapersden com_kame-house-dragon-ball-z_2880x1800](https://github.com/EffySolorzano/EffySolorzano/assets/117257688/9c88ac3c-5d60-439d-9e8c-5e2b19ca01b2)
-
 <h2>✨ Hello there✨ </h2> 
 
 I'm a Venezuelan illustrator and full stack software developer with a strong focus on front-end development and eager to enhance my back-end skills to deliver end to end solutions. 
