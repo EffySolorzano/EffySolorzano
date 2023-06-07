@@ -1,3 +1,6 @@
+![sailormoon](https://github.com/EffySolorzano/EffySolorzano/assets/117257688/a26fab23-41b3-4fbd-bffc-bbf39f6f42fb)
+
+
 <h2>✨ Hello there✨ </h2> 
 
 I'm a Venezuelan illustrator and full stack software developer with a strong focus on front-end development and eager to enhance my back-end skills to deliver end to end solutions. 
