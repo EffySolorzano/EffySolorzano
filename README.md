@@ -1,5 +1,5 @@
-![sailormoon](https://github.com/EffySolorzano/EffySolorzano/assets/117257688/a26fab23-41b3-4fbd-bffc-bbf39f6f42fb)
 
+![wallpapersden com_kame-house-dragon-ball-z_2880x1800](https://github.com/EffySolorzano/EffySolorzano/assets/117257688/9c88ac3c-5d60-439d-9e8c-5e2b19ca01b2)
 
 <h2>✨ Hello there✨ </h2> 
 
