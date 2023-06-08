@@ -1,4 +1,5 @@
-![kali](https://github.com/EffySolorzano/EffySolorzano/assets/117257688/a73a5bef-b71e-40c9-9578-c296af2cc24f)
+
+![gitban](https://github.com/EffySolorzano/EffySolorzano/assets/117257688/103abb69-f0be-4437-93fc-96cc477e5d6b)
 
 
 <h2> ✨ Hello there ✨ </h2> 
