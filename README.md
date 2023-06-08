@@ -9,6 +9,8 @@ Currently, I'm working on my portfolio while looking for new opportunities that 
 </br>
 </br> 
 <h2> ✨ Most used ✨ </h2>
+
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,python,flask,react,postgres,postman,ps,ai,git,github,vscode)](https://skillicons.dev)
 
 <!--
