@@ -5,8 +5,8 @@
 <h2> ✨ Hello there ✨ </h2> 
 
 I'm not really good at introductions but here we go, I'm a Venezuelan illustrator and full stack software developer with a strong focus on front-end development and eager to enhance my back-end skills to deliver end to end solutions. 
-Currently, I'm working on my portfolio while looking for new opportunities that allow me to leverage my skill set. 
-I'm set and ready to take new challenges.
+Currently, I'm working on my portfolio while looking for new opportunities that allow me to leverage my skills. 
+</br>I'm set and ready to take new challenges.
 
 </br>🌴 I’m also working on a Tow Truck Services Platform 
 </br>🔮 Currently learning Portugese and practicing React 
