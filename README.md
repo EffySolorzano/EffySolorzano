@@ -7,16 +7,16 @@ I'm not really good at introductions but here we go, I'm a Venezuelan illustrato
 Currently, I'm working on my portfolio while looking for new opportunities that allow me to leverage my skill set. 
 I'm set and ready to take new challenges.
 
--🌴 I’m also working on a Tow Truck Services Platform 
--🔮 Currently learning Portugese and practicing React 
--🦈 Looking to collaborate on projects related to Digital Art Platforms, Animal Welfare Apps, Cybersecurity. 
--🔥 I’d like to lean more about Blockchain-based Traceability  
+</br>🌴 I’m also working on a Tow Truck Services Platform 
+</br>🔮 Currently learning Portugese and practicing React 
+</br>🦈 Looking to collaborate on projects related to Digital Art Platforms, Animal Welfare Apps, Cybersecurity. 
+</br>🔥 I’d like to lean more about Blockchain-based Traceability  
 
 🌺 Fun facts: 
- -🔹 I have 4 rescue dogs
- -🔹 Since I left Venezuela in 2015 I've lived in USA, Japan and Uruguay. Hoping to end the year in a new country (: 
- -🔹 Food is my love language 
- -🔹 Related to Snorlax on a spiritual level  
+ </br>🔹 I have 4 rescue dogs
+ </br>🔹 Since I left Venezuela in 2015 I've lived in USA, Japan and Uruguay. Hoping to end the year in a new country (: 
+ </br>🔹 Food is my love language 
+ </br>🔹 Related to Snorlax on a spiritual level  
 
 </br>
 </br> 
