@@ -3,8 +3,20 @@
 
 <h2> ✨ Hello there ✨ </h2> 
 
-I'm a Venezuelan illustrator and full stack software developer with a strong focus on front-end development and eager to enhance my back-end skills to deliver end to end solutions. 
-Currently, I'm working on my portfolio while looking for new opportunities that allow me to leverage my skill set. I'm set and ready to take new challenges 
+I'm not really good at introductions but here we go, I'm a Venezuelan illustrator and full stack software developer with a strong focus on front-end development and eager to enhance my back-end skills to deliver end to end solutions. 
+Currently, I'm working on my portfolio while looking for new opportunities that allow me to leverage my skill set. 
+I'm set and ready to take new challenges.
+
+🌴 I’m also working on a Tow Truck Services Platform 
+🔮 Currently learning Portugese and practicing React 
+🦈 Looking to collaborate on projects related to Digital Art Platforms, Animal Welfare Apps, Cybersecurity. 
+🔥 I’d like to lean more about Blockchain-based Traceability  
+
+🌺 Fun facts: 
+ 🔹 I have 4 rescue dogs
+ 🔹 Since I left Venezuela in 2015 I've lived in USA, Japan and Uruguay. Hoping to end the year in a new country (: 
+ 🔹 Food is my love language 
+ 🔹 Related to Snorlax on a spiritual level  
 
 </br>
 </br> 
@@ -12,6 +24,10 @@ Currently, I'm working on my portfolio while looking for new opportunities that 
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,python,flask,react,postgres,postman,ps,ai,git,github,vscode)](https://skillicons.dev)
+
+</br>
+</br> 
+<h3> ✨ Let's connect: [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) ✨ </h3>
 
 <!--
 **EffySolorzano/EffySolorzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
