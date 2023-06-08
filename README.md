@@ -7,7 +7,7 @@ I'm a Venezuelan illustrator and full stack software developer with a strong foc
 Currently, I'm working on my portfolio while looking for new opportunities that allow me to leverage my skill set. I'm set and ready to take new challenges 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,python,flask,react,sql,postgres,postman,ps,ai,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,python,flask,react,mysql,postgres,postman,ps,ai,git,github,vscode)](https://skillicons.dev)
 
 <!--
 **EffySolorzano/EffySolorzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
