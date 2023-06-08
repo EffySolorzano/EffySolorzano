@@ -27,10 +27,11 @@ I'm set and ready to take new challenges.
 
 </br>
 </br> 
-<h3> ✨ Let's connect: </h3>  ✨ 
+
+<h2> ✨ Let's connect: ✨ </h2> 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 
 
