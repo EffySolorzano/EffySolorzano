@@ -1,4 +1,4 @@
-![githubheader](https://github.com/EffySolorzano/EffySolorzano/assets/117257688/ad344b83-697a-46eb-ae17-84f4da0d7974)
+![kali](https://github.com/EffySolorzano/EffySolorzano/assets/117257688/a73a5bef-b71e-40c9-9578-c296af2cc24f)
 
 
 <h2>✨ Hello there✨ </h2> 
