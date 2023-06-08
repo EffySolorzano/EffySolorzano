@@ -27,7 +27,7 @@ I'm set and ready to take new challenges.
 
 </br>
 </br> 
-<h3> ✨ Let's connect:</h3> [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) ✨ 
+<h3> ✨ Let's connect:</h3> [![My Skills](https://skillicons.dev/icons?i=linkedin,)](https://skillicons.dev) ✨ 
 
 <!--
 **EffySolorzano/EffySolorzano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
