@@ -15,7 +15,7 @@ Currently, I'm working on my portfolio while looking for new opportunities that 
 
 🌺 Fun facts: 
  </br>🔹 I have 4 rescue dogs
- </br>🔹 Since I left Venezuela in 2015 I've lived in USA, Japan and Uruguay. Hoping to end the year in a new country (: 
+ </br>🔹 Since I left Venezuela in 2015 I've lived in USA, Japan and Uruguay. 
  </br>🔹 Food is my love language 
  </br>🔹 Related to Snorlax on a spiritual level  
 
@@ -24,7 +24,7 @@ Currently, I'm working on my portfolio while looking for new opportunities that 
 <h2> ✨ Most used ✨ </h2>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,python,flask,react,postgres,postman,ps,ai,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,python,flask,react,postgres,postman,ps,ai,git,github,vscode)](https://www.linkedin.com/in/stephcsolorzanom/)
 
 </br>
 </br> 
@@ -32,7 +32,7 @@ Currently, I'm working on my portfolio while looking for new opportunities that 
 <h2> ✨ Let's connect: ✨ </h2> 
 
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/stephcsolorzanom/)
 
 
 
